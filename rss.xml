@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[My Way]]></title>
+        <description><![CDATA[My Way]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Feb 2016 17:49:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[We are what we are. So I am what I am.]]></title>
+            <description><![CDATA[<h1>We are what we are. So I am what I am.</h1>]]></description>
+            <link>undefinedwe-are-what-we-are-so-i-am-what-i-am/index.html</link>
+            <guid isPermaLink="false">a94551c1-ff34-4630-b7cc-0ac228c026fd</guid>
+            <pubDate>Wed, 17 Feb 2016 17:49:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
