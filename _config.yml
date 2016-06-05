@@ -1,26 +1,26 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
 color:
   saturation: 0
   brandStrength: 1
-  lightness: 1
+  rhythmicContrast: 1
   brandColors:
     - '#F6F9FE'
     - '#47576D'
     - '#C9CBC7'
     - '#AF7D6F'
     - '#010208'
-  rhythmicContrast: 1
-typography_spectrum: 0.5247201
+  lightness: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
 layout_spectrum: 1
+typography_spectrum: 0.5247201
 name: My Way
