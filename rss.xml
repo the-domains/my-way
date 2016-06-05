@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Dirk's updates]]></title>
+        <description><![CDATA[Dirk's updates]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 05 Jun 2016 23:03:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[code & layout]]></title>
+            <description><![CDATA[<article><h1>code & layout</h1><p>Layouting and coding websites for small- and middle-sized companies since 2003 with love for details and modern design.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dd67c4f-0da4-4ad7-87b0-ec8d9baeead1.jpg"></article>]]></description>
+            <link>http://www.code-and-layout.de</link>
+            <guid isPermaLink="false">36cfb694-be3d-407d-991d-c23296db31d1</guid>
+            <pubDate>Sun, 05 Jun 2016 23:03:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
